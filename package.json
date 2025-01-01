@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "name": "@NikhilRaj060/react-one",
+  "name": "@nikhilraj060/react-one",
   "type": "module",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
@@ -9,7 +9,7 @@
     "/dist"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@NikhilRaj060"
+    "registry": "https://npm.pkg.github.com/@nikhilraj060"
   },
   "scripts": {
     "format": "prettier --write --parser typescript '**/*.{ts,tsx}'",
