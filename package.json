@@ -7,7 +7,7 @@
     "/dist"
   ],
   "publishConfig": {
-    "registry" : "https://npm.pkg.github.com/@NikhilRaj060"
+    "registry": "https://npm.pkg.github.com/@NikhilRaj060"
   },
   "name": "@NikhilRaj060/react-one",
   "scripts": {
