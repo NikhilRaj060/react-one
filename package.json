@@ -6,6 +6,10 @@
   "files": [
     "/dist"
   ],
+  "publishConfig": {
+    "registry" : "https://npm.pkg.github.com/@NikhilRaj060"
+  },
+  "name": "@NikhilRaj060/react-one",
   "scripts": {
     "format": "prettier --write --parser typescript '**/*.{ts,tsx}'",
     "lint": "eslint . --ext .ts,.tsx --ignore-path .gitignore --fix",
