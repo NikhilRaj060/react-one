@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "name": "@{user_name}/react-one",
+  "name": "NikhilRaj060/react-one",
   "type": "module",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
